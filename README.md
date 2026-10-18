@@ -189,6 +189,8 @@ The following technologies represent professional experience, development activi
 
 Technology inclusion does **not** imply identical levels of expertise. Detailed project and experiment documentation will identify the context and type of usage.
 
+Detailed technology descriptions, historical platforms and scope distinctions: [Technology Stack — Detailed Engineering Context](technology-stack/README.md).
+
 ---
 
 ## 6. Source Attribution and Authorship
@@ -243,7 +245,7 @@ The portfolio is being developed around four complementary areas:
 
 **Learning & Experiments** — Algorithms, mathematical techniques, educational studies, practical investigations, and a central Books & References catalogue.
 
-**Technology Stack** — Programming languages, frameworks, databases, infrastructure, and development environments.
+**Technology Stack** — [Programming languages, frameworks, databases, infrastructure, and development environments](technology-stack/README.md).
 
 **Code Examples** — Selected illustrative implementations that may be published in future revisions.
 
