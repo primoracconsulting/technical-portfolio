@@ -79,6 +79,8 @@ Topics include snapshot processing, Change Data Capture, streaming pipelines, co
 
 The work includes independently configured demonstrations and an evolving CDC proof-of-concept project.
 
+Technical documentation and selected configuration/test excerpts: [Apache SeaTunnel CDC — Architecture, Testing and Planned Transformations](examples/seatunnel-cdc/README.md).
+
 ### LedgerLake
 
 An evolving data engineering and lakehouse demonstration project exploring transactional data generation, data integration, distributed processing, and analytical data architectures.
@@ -213,9 +215,11 @@ Similarly, professional project descriptions distinguish personal engineering co
 
 ---
 
-## 7. Selected Code Examples — Future Development
+## 7. Selected Code Examples
 
-Selected self-contained code examples may be added later to illustrate technical concepts and engineering practices.
+The first documented technical example is [Apache SeaTunnel CDC — Architecture, Testing and Planned Transformations](examples/seatunnel-cdc/README.md). It summarizes the two locally tested CDC architectures, configuration and testing excerpts, engineering limitations, and the planned Case 3 design.
+
+Additional self-contained code examples may be added later to illustrate technical concepts and engineering practices.
 
 Potential areas include:
 
